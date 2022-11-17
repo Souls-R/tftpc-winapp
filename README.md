@@ -5,7 +5,7 @@ hustcse socket编程，实现tftpc客户端。
 - 只使用octet模式传输，支持多任务
 
 
-![](1.png)
+![](pic.png)
 
 ## 文件目录
 - 主要逻辑在`MainPage.xaml.cpp`中。
